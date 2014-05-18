@@ -5,7 +5,8 @@
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:CreditForCredits_development</jdbc-url>
-      <user-name>postgres</user-name>
+      <user-name>c4c</user-name>
+      <user-password>dff8dfc5dfc2dfeadfc4df9adf93df98df9e</user-password>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails CreditForCredits: test" uuid="6110aa7a-a855-469c-b9b3-8248aaea9a06">
