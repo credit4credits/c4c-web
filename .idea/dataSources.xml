@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="561104118">
+    <data-source source="LOCAL" name="Rails CreditForCredits: development" uuid="eb17c3bc-790d-42ca-a043-74eea7605932">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:CreditForCredits_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfcedfc3dfcedfc3dfcfdfd8dfeedfd8dfc5dfcddfc8dfcbdf9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails CreditForCredits: test" uuid="6110aa7a-a855-469c-b9b3-8248aaea9a06">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:CreditForCredits_test</jdbc-url>
+      <user-name>CreditForCredits</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails CreditForCredits: production" uuid="faa63571-4f1a-4576-a88a-266de3deb891">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:CreditForCredits_production</jdbc-url>
+      <user-name>CreditForCredits</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
